@@ -77,5 +77,14 @@ This architecture is widely used for:
 - Cost awareness and cleanup
 
 ---
+
+##### Note on Infrastructure Screenshots
+
+The VPC, private subnets, and NAT Gateway were created and validated during the project.
+All resources were intentionally deleted after validation to avoid unnecessary AWS charges.
+
+Architecture diagrams and configuration steps accurately reflect the implemented setup.
+
+---
 ## Author
 *Nidhi Kumari*
