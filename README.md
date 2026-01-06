@@ -9,6 +9,9 @@ The architecture is designed to handle real-world production traffic with high a
 
 ## 🏗 Architecture Overview
 
+![Architecture Diagram](architecture/Architecture-diagram.jpeg)
+
+
 *Services Used:*
 - Amazon VPC
 - Public & Private Subnets
